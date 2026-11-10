@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DigitalPro//Patricio y Tomasa//ES
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:patricio-tomasa-20261212@digitalpro
+DTSTAMP:20261110T120000Z
+DTSTART:20261212T180000Z
+SUMMARY:Boda de Patricio y Tomasa
+LOCATION:Ciudad de Sevilla 43\, Polígono Fuente del Jarro\, Paterna\, España
+DESCRIPTION:Recepción social a las 19:00 (hora de España). Confirma al +34 649 28 60 39.
+URL:https://maps.app.goo.gl/n1nop7BMECfB4v5C9
+END:VEVENT
+END:VCALENDAR
